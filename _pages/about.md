@@ -1,14 +1,9 @@
----
-layout: archive
-title: "CV"
-permalink: /cv/
+permalink: /
+title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
 author_profile: true
-redirect_from:
-  - /resume
-
----
-
-{% include base_path %}
+redirect_from: 
+  - /about/
+  - /about.html
 
 ## 教育经历
 
