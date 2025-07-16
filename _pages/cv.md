@@ -17,8 +17,8 @@ redirect_from:
 
 ## 技能
 
-**硬件开发**：ZYNQ开发（ARM+FPGA异构开发、HLS、Verilog），单片机开发（STM32、GD32），电路设计（AD）等
-**人工智能**：图神经网络、卷积神经网络、Transformer等
+* **硬件开发**：ZYNQ开发（ARM+FPGA异构开发、HLS、Verilog），单片机开发（STM32、GD32），电路设计（AD）等
+* **人工智能**：图神经网络、卷积神经网络、Transformer等
 
 ## 发表论文
 
