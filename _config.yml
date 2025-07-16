@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "zh-CN"
 site_theme               : "default"
-title                    : "叶金霖简历"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "叶金霖"
 description              : &description "personal description"
