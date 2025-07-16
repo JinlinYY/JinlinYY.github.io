@@ -28,9 +28,6 @@ redirect_from:
 4.  Yuhan Liu#, **Jinlin Ye**#, Zecheng He, Mingyue Wang, Changjun Wang\*, Jie Lang\*, Yidong Zhou\*, Wei Zhang\*, “Deep learning assisted non-invasive lymph node burden evaluation and CDK4/6i administration in luminal breast cancer,” *iScience*, vol. 28, p. 112849, 2025, https://doi.org/10.1016/j.isci.2025.112849.（中科院2区，影响因子4.1）
 
 ## 项目经历
-
-* **管段式电磁流量计开发** (2022年-2025年)
-    * 本项目致力于管段式电磁流量计的研发，旨在基于法拉第电磁感应定律实现流体流量的高精度测量，其核心原理是通过在管段中施加交变磁场，感应流体产生的微弱电动势，并对其进行精确采集、放大与处理，最终计算出流速及流量数据。励磁电路采用Buck电路、桥和PI控制算法的低频矩形波横流励磁方案，主控芯片采用GD32，通讯包括RS485（Modbus-RTU协议）、4-20mA模拟输出以及蓝牙。**本人负责项目全部内容**
   
 * **管段式电磁流量计研发与实现** (2022年-2025年)
     * **项目概览**：本项目致力于基于法拉第电磁感应定律，开发一款高精度管段式电磁流量计。通过在管段中施加精确控制的交变磁场，感应并采集流体产生的微弱电动势，经信号放大与数据处理，实现流速及流量的精准测量。
